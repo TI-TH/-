@@ -1,0 +1,8 @@
+"type","value","source"
+"url","https://oob.moika.tech/payload/linux","riskiq"
+"url","https://oob.moika.tech/payload/mac","riskiq"
+"url","https://oob.moika.tech/payload/win","riskiq"
+"domain","docs.t-in-one.io","riskiq"
+"domain","jira.t-in-one.io","riskiq"
+"domain","npm.t-in-one.io","riskiq"
+"domain","oob.moika.tech","riskiq"
