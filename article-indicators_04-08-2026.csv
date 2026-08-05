@@ -1,0 +1,8 @@
+"type","value","source"
+"hash_sha256","54DC7EA54A1317CCA0E890A2770630CF7FA6C97813E0CB9D2CAA93012B350668","riskiq"
+"hash_sha256","9FC2570B7CEF51C1B8DF116D144D11FF4096357BE7D2C4C6367CFC2509CF1BCC","riskiq"
+"hash_sha256","FD3CA4007B225FDF8DE7AF4345A19179D5EFA8C4BB9205F88CDA806E5684B1EB","riskiq"
+"domain","js-mirror.com","riskiq"
+"domain","npm-cache.com","riskiq"
+"domain","pypi-get.com","riskiq"
+"url","https://npm-cache.com:443/router","riskiq"
